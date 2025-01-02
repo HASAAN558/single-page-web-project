@@ -1,1 +1,1 @@
-# ecommerce-fullstack-design
+# ecommerce-frontend-design
